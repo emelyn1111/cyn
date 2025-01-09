@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/rennzone/OpenLedger/refs/heads/main/openledger.sh && bash openledger.sh
+openledger-node --no-sandbox
